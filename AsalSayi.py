@@ -11,7 +11,7 @@ def fonksiyon(sayi):
     for i in range(2,sayi): 
         if (sayi % i == 0):  #sayının 2 den sayıya kadar olan sayıyla modu
             return False  #sıfır ise false döndür
-    return True   #değilse true döndür
+    return True   
             
                 
 print("çıkmak için 'a'ya basınız..")
