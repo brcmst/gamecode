@@ -1,0 +1,16 @@
+Umut Anık,50,79
+İlkay Ramazan, 80,72
+Nebahat Ansen,41,54
+İlyas Umut,90,98
+Yasin Şükrü,11,76
+Memet Ali,35,56
+Deniz Dilay,75,34
+Sakıp Balıoğlu,87,89
+Kazım Balta,76,90
+Abdullah Atakan,97,74
+Coşkun Baran,56,46
+Serdar Barbaros,24,86
+Arzucan Bulgur,56,36
+Asiye Burabak,80,95
+Ahmet Yasin,56,98
+Yaprak Vural,78,75
